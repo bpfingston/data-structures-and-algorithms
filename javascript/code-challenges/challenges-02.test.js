@@ -51,7 +51,7 @@ const forLoopTwoToThe = (arr) => {
 
   for(var i = 0; i < arr.length; i++){
     loopArr.push(Math.pow(2, arr[i]));
-  };
+  }
   return loopArr;
 };
 
