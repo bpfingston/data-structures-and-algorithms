@@ -142,17 +142,7 @@ const errands = [
   }
 ];
 
-const howManyTreats = (arr) => {
-  var value;
-  arr.forEach( store => {
-    store.item.forEach( obj => {
-      if (obj.name === 'Treats'){
-        value = obj.quantity;
-      }
-    });
-  });
-  return value;
-};
+const howManyTreats = (arr) => arr[2].items[1].quantity;
 
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 7 - Stretch Goal
