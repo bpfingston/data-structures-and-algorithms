@@ -44,6 +44,10 @@ For example, (123) 456-7890 returns 1234567890
 
 const standardizePhoneNumbers = (arr) => arr.map( str => str.replace(/[^\d]/g,''));
 
+// ^ - start
+//\d - any numerical digit
+// g - global
+
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 5 
 
