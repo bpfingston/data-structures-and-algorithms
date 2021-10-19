@@ -151,7 +151,7 @@ https:/missingslash.org returns false because the URL is malformed
 const isSecure = (url) => {
   let uri = /(https:\/\/)/;
   return uri.test(url);
-
+};
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 6 
 
@@ -260,4 +260,4 @@ describe('Testing challenge 6', () => {
   test('It should not treat empty 3 in row as winner', () => {
     expect(detectTicTacToeWin([['', '', ''], ['O', 'O', ''], ['X', 'O', 'X']])).toEqual(false);
   });
-});
+})
