@@ -6,4 +6,7 @@
 2.[Challenge-2](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-2)  
 3.[Challenge-3](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-3)  
 4.[Challenge-5](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-5)  
-5.[Challenge-6](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-6)
+5.[Challenge-6](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-6)  
+6.[Challenge-7](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-7)  
+7.[Challenge-8](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-8)  
+8.[Challenge-10](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-10)   
