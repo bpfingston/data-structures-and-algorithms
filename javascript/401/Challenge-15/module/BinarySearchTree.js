@@ -16,7 +16,7 @@ class BinarySearchTree extends BinaryTree {
       return;
     }
     let current = this.root;
-    
+
     while (current) {
       if (val < current.value) {
         if (current.left === null) {
@@ -55,14 +55,14 @@ class BinarySearchTree extends BinaryTree {
   //       }
   //     }
   //   }
-  contains(value) {
+  contains(val) {
     let current = this.root;
 
     while (current) {
-      if (current.value === value) {
+      if (current.value === val) {
         return true;
       }
-      if (value < current.value) {
+      if (val < current.value) {
         current = current.left;
       } else {
         current = current.right;
