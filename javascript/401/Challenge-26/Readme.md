@@ -5,10 +5,10 @@
     Once you are done with your article, code a working, tested implementation of Insertion Sort based on the pseudocode provided
 
 ## Blog
-[theBlog]()
+[theBlog](https://github.com/bpfingston/data-structures-and-algorithms/blob/main/javascript/401/Challenge-26/blog.md)
 
 ## Code/Solution
-[code/solution]()
+[code/solution](https://github.com/bpfingston/data-structures-and-algorithms/blob/main/javascript/401/Challenge-26/module/insertionSort.js)
 
 
 ## Approach & Efficiency
