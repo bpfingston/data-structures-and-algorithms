@@ -5,7 +5,10 @@
     Once you are done with your article, code a working, tested implementation of Insertion Sort based on the pseudocode provided
 
 ## Blog
-[theblog]()
+[theBlog]()
+
+## Code/Solution
+[code/solution]()
 
 
 ## Approach & Efficiency
