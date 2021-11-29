@@ -18,3 +18,4 @@
 14.[Challenge-17](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-17)  
 15.[Challenge-18](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-18)  
 16.[Challenge-19](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-26)  
+17.[Challenge-20](https://github.com/bpfingston/data-structures-and-algorithms/tree/main/javascript/401/Challenge-30)
