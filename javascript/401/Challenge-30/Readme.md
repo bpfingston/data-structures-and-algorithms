@@ -44,7 +44,7 @@ hash:
 ## API  
 
 Solution:  
-[Hashtable.js]()  
+[Hashtable.js](https://github.com/bpfingston/data-structures-and-algorithms/blob/main/javascript/401/Challenge-30/module/Hashtable.js)  
 
 Test:
-[My Test]()
+[My Test](https://github.com/bpfingston/data-structures-and-algorithms/blob/main/javascript/401/Challenge-30/__Test__/challenge30.test.js)
