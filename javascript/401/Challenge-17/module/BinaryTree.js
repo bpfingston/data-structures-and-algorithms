@@ -15,7 +15,6 @@ class BinaryTree {
     this.output = [];
     while(this.array.length){
       const current = this.array.shift();
-      
       if(current.left){
         this.array.push(current.left);
       }
