@@ -15,6 +15,7 @@ const leftJoin = (hash1, hash2) => {
 
   if (hash1.size > 0 && hash2.size > 0) {
     hash1.forEach((value, key) => {
+      console.log(hash1);
       let mergedEntry = [key, value];
       hash2.get(key)
         ? mergedEntry.push(hash2.get(key))

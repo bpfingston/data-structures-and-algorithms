@@ -61,7 +61,6 @@ describe('Can successfully implement a merging of maps', () => {
     hash2.set('James', 'Rhodes');
     hash2.set('Wanda', 'Maximoff');
 
-    expect(leftJoin(hash1, hash2)).toStrictEqual([["Tony", "Stark", null], ["Steve", "Rogers", null], ["Bruce", "Banner", null], ["Thor", "Odinson", null], ["Natasha", "Romanav", null]]);
+    expect(leftJoin(hash1, hash2)).toStrictEqual([['Tony', 'Stark', null], ['Steve', 'Rogers', null], ['Bruce', 'Banner', null], ['Thor', 'Odinson', null], ['Natasha', 'Romanav', null]]);
   });
-  
 });
