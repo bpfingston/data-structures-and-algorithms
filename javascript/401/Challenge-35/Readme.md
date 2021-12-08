@@ -85,5 +85,5 @@ Articles to conclusion: [myCheatSheet](https://static.packt-cdn.com/downloads/48
 
 ## Solution  
 
-[Solution/Code](https://github.com/bpfingston/data-structures-and-algorithms/blob/main/javascript/401/Challenge-35/module/left-join.js);  
+[Solution/Code](https://github.com/bpfingston/data-structures-and-algorithms/blob/main/javascript/401/Challenge-35/module/graph.js);  
 [Test](https://github.com/bpfingston/data-structures-and-algorithms/blob/main/javascript/401/Challenge-35/__Test__/challenge35.test.js)  
